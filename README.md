@@ -1,8 +1,8 @@
 #Create react app
-### npx create-react-app app-name
+### `npx create-react-app app-name`
 
 #install dependancies
-### npm install
+### `npm install`
 
 #create .env file to and store your Google API key
 API_KEY="Your key here"
